@@ -174,7 +174,7 @@ class HDPipeWrench:HDWrenchWeapon{
 					-sin(dp)
 				)*3;
 			}
-			HDBackpack.ForceUpdate(dropper);
+//			HDBackpack.ForceUpdate(dropper);
 		}
 	}
 
